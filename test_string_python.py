@@ -1,0 +1,1 @@
+string = "This is a test to fix my Github having SSH issues. If I can resolve this, then I can link my local repositories to my Github account and continue my coding journey!"
